@@ -15,7 +15,7 @@
 
         public function index() {
 
-            $this -> render('index', 'layout');
+            $this -> render('index');
         }
         
     }
